@@ -1,0 +1,297 @@
+._17t6YGn7I {
+    margin: 0 auto;
+    height: 77px;
+    opacity: 1
+}
+
+@media screen and (min-width: 433px) {
+    ._17t6YGn7I {
+        width: 55px
+    }
+}
+
+._31KQ6aKJQ {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0;
+    margin: 22px 0 66px;
+    text-align: center
+}
+
+@media screen and (max-width: 432px) {
+    ._31KQ6aKJQ {
+        font-size: 24px
+    }
+}
+
+._36Tc25hu9 {
+    white-space: nowrap
+}
+
+.XWKjnbxa2 {
+    display: block;
+    border-bottom: none;
+    text-decoration: none;
+    color: inherit
+}
+
+.-NDb_MIEy {
+    overflow: hidden
+}
+
+@media screen and (max-width: 432px) {
+    ._1RX89P0xE {
+        line-height: normal
+    }
+}
+
+.expand-enter {
+    max-height: 0;
+    transition: max-height .6s ease-in-out
+}
+
+.expand-enter.expand-enter-active {
+    max-height: 500px
+}
+
+._1aQKjB-zA {
+    text-align: center
+}
+
+.pUyrVxk1O {
+    margin: 0 45px
+}
+
+@media screen and (max-width: 800px) {
+    .pUyrVxk1O {
+        margin: 30px
+    }
+}
+
+._28d26DcEo {
+    background-color: #fff;
+    font-size: 11px;
+    padding-left: 11px;
+    overflow: hidden
+}
+
+.J94MOHOrd {
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+    border: 6px solid #fff;
+    border-top: 0;
+    padding: 80px 45px;
+    overflow-wrap: break-word
+}
+
+.CyPVFbmNE {
+    vertical-align: middle;
+    margin-bottom: 16px
+}
+
+._2fH3uv1wm {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100%
+}
+
+@media only screen and (pointer: coarse) and (orientation: landscape) and (max-device-height: 428px), only screen and (pointer: coarse) and (orientation: landscape) and (min-device-height: 429px) and (max-device-height: 767px), only screen and (pointer: coarse) and (orientation: portrait) and (max-device-width: 428px), only screen and (pointer: coarse) and (orientation: portrait) and (min-device-width: 429px) and (max-device-width: 767px) {
+    ._2fH3uv1wm {
+        flex-wrap: nowrap
+    }
+}
+
+._2C1wHv0xf {
+    width: calc(50% - 66px);
+    margin: 33px;
+    flex: 0 0 auto
+}
+
+@media only screen and (pointer: coarse) and (orientation: landscape) and (max-device-height: 428px), only screen and (pointer: coarse) and (orientation: landscape) and (min-device-height: 429px) and (max-device-height: 767px), only screen and (pointer: coarse) and (orientation: portrait) and (max-device-width: 428px), only screen and (pointer: coarse) and (orientation: portrait) and (min-device-width: 429px) and (max-device-width: 767px) {
+    ._2C1wHv0xf {
+        width: calc(100% - 66px);
+        order: 3
+    }
+}
+
+._22__Q7_73 {
+    line-height: 28px
+}
+
+._2pf-E-WLv {
+    padding: 0;
+    text-align: left;
+    margin-left: 33px;
+    margin-top: 33px
+}
+
+@media only screen and (pointer: coarse) and (orientation: landscape) and (max-device-height: 428px), only screen and (pointer: coarse) and (orientation: landscape) and (min-device-height: 429px) and (max-device-height: 767px), only screen and (pointer: coarse) and (orientation: portrait) and (max-device-width: 428px), only screen and (pointer: coarse) and (orientation: portrait) and (min-device-width: 429px) and (max-device-width: 767px) {
+    ._2pf-E-WLv {
+        font-size: 14px;
+        margin: 16px 22px
+    }
+}
+
+._20kUWOuDk {
+    margin-top: 33px
+}
+
+._2MXVss9SA, ._20kUWOuDk {
+    display: flex;
+    flex-direction: column
+}
+
+._2MXVss9SA {
+    width: 50%;
+    min-width: 50%;
+    height: 100%;
+    justify-content: center;
+    background-image: url(//assets.squarespace.com/universal/scripts-compressed/welcome-window-background-37b63b5559259e9d47d695664e8c82fb.jpg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+    background-color: #dfd8dd
+}
+
+@media only screen and (pointer: coarse) and (orientation: landscape) and (max-device-height: 428px), only screen and (pointer: coarse) and (orientation: landscape) and (min-device-height: 429px) and (max-device-height: 767px), only screen and (pointer: coarse) and (orientation: portrait) and (max-device-width: 428px), only screen and (pointer: coarse) and (orientation: portrait) and (min-device-width: 429px) and (max-device-width: 767px) {
+    ._2MXVss9SA {
+        width: 100vw
+    }
+}
+
+._2T9jDp40n {
+    background: #fff
+}
+
+._1xfNOsWXR {
+    width: 616px;
+    height: 342.87907869px;
+    display: block;
+    margin: 33px auto 22px;
+    background: #d0d0d0;
+    border: none
+}
+
+._3qQevAtVb, ._29Co2uDgH {
+    text-align: center;
+    display: block;
+    margin: auto
+}
+
+._29Co2uDgH {
+    text-transform: none;
+    font-weight: 300;
+    font-size: 23px;
+    max-width: 594px;
+    letter-spacing: -1px;
+    line-height: 38px
+}
+
+._3qQevAtVb {
+    font-size: 11px;
+    margin-top: 11px;
+    max-width: 418px
+}
+
+._3qQevAtVb a:hover {
+    color: #3e3e3e
+}
+
+._2TqwT5fUw {
+    margin: 0;
+    background: #f6f6f6
+}
+
+._2zKIjOXgY {
+    padding-bottom: 0;
+    margin: 22px 11px 44px
+}
+
+@keyframes _2KGIl8xe- {
+    0% {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@media screen and (max-width: 432px) {
+    .mobile-hidden, .subDesktop-hidden {
+        display: none
+    }
+}
+
+@media screen and (min-width: 433px) {
+    .desktop-hidden {
+        display: none
+    }
+}
+
+.App.onboarding {
+    -webkit-filter: blur(12px);
+    height: 100%
+}
+
+._20SglV4pO {
+    background: rgba(0, 0, 0, .35)
+}
+
+._1dIdvhofe {
+    padding: 0
+}
+
+@media screen and (min-width: 433px) {
+    ._2kiBmqL6q {
+        padding: 44px
+    }
+}
+
+._2bqfe19-p {
+    text-transform: uppercase;
+    margin-left: 11px;
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: .75px;
+    color: #797979
+}
+
+@media screen and (max-width: 432px) {
+    ._2bqfe19-p {
+        margin-left: 0;
+        display: block
+    }
+}
+
+._3oMDf9U-v {
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 500
+}
+
+.rqfy-fQXA {
+    color: #797979;
+    font-size: 12px;
+    margin-top: 11px
+}
+
+._1zJnTyfW2 {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden
+}
+
+.hvgkBEV3Z {
+    background: #f6f6f6 url(//assets.squarespace.com/universal/scripts-compressed/guide-wallpaper-39c75f5c26cb8d4bd01fa65dbaeae191.jpg) 50% no-repeat
+}
+
+.hvgkBEV3Z ._3YTbs1O7z {
+    background-color: #fff
+}
+
+._2iV9tYVGM {
+    z-index: 0
+}
